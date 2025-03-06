@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|solutionrelative:onedimensioarray19795400\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|c:\\users\\daniel\\onedrive\\documentos\\prca 3\\onedimensioarray19795400\\onedimensioarray19795400\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\Onedimensioarray19795400\\onedimensioarray19795400\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|solutionrelative:onedimensioarray19795400\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|c:\\users\\daniel\\onedrive\\documentos\\prca 3\\onedimensioarray19795400\\onedimensioarray19795400\\onedmsstring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\Onedimensioarray19795400\\onedimensioarray19795400\\onedmsstring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|solutionrelative:onedimensioarray19795400\\onedmsstring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|c:\\users\\daniel\\onedrive\\documentos\\prca 3\\onedimensioarray19795400\\onedimensioarray19795400\\onedmsstring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\Onedimensioarray19795400\\onedimensioarray19795400\\onedmsstring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{477F7019-FD5D-4DAE-85A5-9EB1CA40D533}|Onedimensioarray19795400\\Onedimensioarray19795400.csproj|solutionrelative:onedimensioarray19795400\\onedmsstring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Onedimensioarray19795400\\CategoryUseArraySessionVariables.aspx.cs",
               "ToolTip": "C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\Onedimensioarray19795400\\Onedimensioarray19795400\\CategoryUseArraySessionVariables.aspx.cs",
               "RelativeToolTip": "Onedimensioarray19795400\\CategoryUseArraySessionVariables.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T21:01:09.08Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Onedimensioarray19795400\\OneDmsString.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:53:52.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T20:53:52.843Z"
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "RelativeToolTip": "Onedimensioarray19795400\\OneDmsString.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-06T20:52:41.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T20:52:41.13Z"
             }
           ]
         }

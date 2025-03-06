@@ -13,6 +13,12 @@ namespace Onedimensioarray19795400
         {
 
         }
+        protected void btnLookup_Click(object sender, EventArgs e)
+        {
+            String[] strCategoryArray = new string[5];
+            strCategoryArray = Session["strCategoryArray"] as String[];
+            Int32 i32Index = Convert.ToInt32(txtIndex.Text);
+            lblCategory.Text = strCategoryArray[i32Index];
         }
     }
 }
